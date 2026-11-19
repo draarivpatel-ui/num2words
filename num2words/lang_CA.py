@@ -206,7 +206,6 @@ class Num2Word_CA(Num2Word_EU):
         'YUM': (('dinar', 'dinars'), ('para', 'para')),
         'ZMW': (('kwacha', 'kwacha'), ('ngwee', 'ngwee')),
         'ZWL': (GENERIC_DOLLARS, ('cèntim', 'cèntims')),
-        'ZWL': (GENERIC_DOLLARS, ('cèntim', 'cèntims')),
     }
 
     GIGA_SUFFIX = None
